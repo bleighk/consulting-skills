@@ -1,4 +1,4 @@
-# skills-library
+# consulting-skills
 
 A collection of Claude Code skills for AI agents, built around professional methodology and structured reasoning.
 
